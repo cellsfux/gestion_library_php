@@ -1,5 +1,5 @@
 # Technologies
-Dans cette application nous avons utiliser 
+Dans cette application nous avons utilisé 
 # CSS, 
 (Css Vanila, Bootstrap, ....)
 # JS 
@@ -12,29 +12,25 @@ Dans cette application nous avons utiliser
 
 # INSTALLATION DE L'APPLICATION
 
-1. Pour installer mettez le dossier dans ton dossier serveur comme d'habitude ;
-2. Chercher le fichier newData ouvrez-le dans ton éditeur préférer et copier tout les contenus
-
-3. Ouvrez votre http://localhost/phpmyadmin, 
-
-4. Cherchez l'onglet SQL et coller les contenus puis ''executer" ou enregistrer" 
+1. vous avez juste besoin dun serveur apashe comme xampp ou wamp
 
 
-5. Aller dans le dossier application, puis dans core et ouvrez le fichier generale.php dans ton éditeur, puis met l'URL correspondant sur la const "URLROOT", par exemple http:localhost/dossier/public/ 
+2.  Ouvrez le fichier generale.php dans votre éditeur, puis mettez l'URL correspondant sur la constante "URLROOT", par exemple http://localhost/dossier/public/ // http://domaine.ext
 
 
-6. Lancer l'application dans le navigateur et créer le premier compte une fois créé.
+6. LanceZ l'application dans le navigateur et créer le premier compte une fois créé.
 
 7. Allez dans la base de données et chercher le premier enregistrement dans la table user:: 
-Puis sur la colonne rôle mettez "Admin" exactement comme je l'écris donc respecter la casse.
 
-Si tu as fini tu peux maintenant connecté ton utilisateur qui lui sera le départemental,  
+Puis sur la colonne rôle mettez "Admin" exactement comme je l'ai écris, donc respecter la casse.
 
-Voilà la procédure comment installer,
+Si vous avez  fini vous  pouvez maintenant connecté votre utilisateur qui lui sera l'administrateur,  
+
+
 
 
 L'application se lancera sur
- http:localhost/dossiername/public
+ http//:localhost/dossiername/public
 
 
 
